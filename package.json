@@ -1,0 +1,24 @@
+{
+  "name": "asir_mission-start-alfredo",
+  "version": "1.0.0",
+  "description": "Acabas de ser contratado como Desarrollador Junior en NextGen Web Solutions. Tu primera misión no es escribir código desde cero, sino preparar tu \"estación de combate\" digital y resolver un problema de rendimiento que está afectando a un cliente importante.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BesitosBB/ASIR_Mission-Start-Alfredo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BesitosBB/ASIR_Mission-Start-Alfredo/issues"
+  },
+  "homepage": "https://github.com/BesitosBB/ASIR_Mission-Start-Alfredo#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
