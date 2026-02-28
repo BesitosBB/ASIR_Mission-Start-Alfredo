@@ -20,5 +20,12 @@
   "homepage": "https://github.com/BesitosBB/ASIR_Mission-Start-Alfredo#readme",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.2",
+    "eslint-plugin-vue": "^10.8.0",
+    "globals": "^17.3.0",
+    "typescript-eslint": "^8.56.1"
   }
 }
