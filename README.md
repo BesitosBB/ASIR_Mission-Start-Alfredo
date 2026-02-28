@@ -58,6 +58,7 @@ Entregable: Repositorio inicializado, VS Code configurado y proyecto base funcio
 Entregable: Informe técnico con hallazgos y propuestas de mejora.
 
 🧩 Issues del Milestone 2
+
 4️⃣ Auditoría de rendimiento (Network)
 
  Analizar tiempo total de carga
