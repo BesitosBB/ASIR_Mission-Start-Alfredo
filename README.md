@@ -11,9 +11,13 @@ Entregable: Repositorio inicializado, VS Code configurado y proyecto base funcio
 1️⃣ Inicializar repositorio y estructura base
 
  Crear repositorio en GitHub
+
  Clonar en local
+
  Crear estructura de carpetas
+
  Añadir README.md inicial
+
  Primer commit
 
 📌 Valor: Proyecto listo para crecer.
@@ -21,9 +25,13 @@ Entregable: Repositorio inicializado, VS Code configurado y proyecto base funcio
 2️⃣ Configurar npm y dependencias base
 
  Ejecutar npm init -y
+
  Instalar Express
+
  Crear src/app.js
+
  Añadir script "start" en package.json
+
  Probar servidor básico funcionando
 
 📌 Valor: Microservicio ejecutándose localmente.
@@ -31,9 +39,13 @@ Entregable: Repositorio inicializado, VS Code configurado y proyecto base funcio
 3️⃣ Configurar entorno profesional (Linting + Formateo)
 
  Instalar ESLint
+
  Configurar reglas básicas
+
  Instalar Prettier
+
  Activar format on save
+
  Añadir .gitignore
 
 📌 Valor: Código limpio y estandarizado desde el inicio.
@@ -46,12 +58,14 @@ Entregable: Repositorio inicializado, VS Code configurado y proyecto base funcio
 Entregable: Informe técnico con hallazgos y propuestas de mejora.
 
 🧩 Issues del Milestone 2
-
 4️⃣ Auditoría de rendimiento (Network)
 
  Analizar tiempo total de carga
+
  Detectar recursos pesados
+
  Identificar peticiones duplicadas
+
  Detectar bloqueos por JS
 
 📌 Valor: Identificación clara del cuello de botella.
@@ -59,8 +73,11 @@ Entregable: Informe técnico con hallazgos y propuestas de mejora.
 5️⃣ Auditoría de errores (Console)
 
  Revisar errores JS
+
  Detectar warnings
+
  Identificar errores 404
+
  Documentar errores críticos
 
 📌 Valor: Identificación de errores que afectan UX.
@@ -68,8 +85,11 @@ Entregable: Informe técnico con hallazgos y propuestas de mejora.
 6️⃣ Redactar informe técnico
 
  Listar problemas encontrados
+
  Clasificarlos por gravedad
+
  Proponer soluciones
+
  Subir informe al repo
 
 📌 Valor: Entrega profesional al cliente.
@@ -85,7 +105,9 @@ Entregable: Microservicio estructurado y versionado correctamente.
 7️⃣ Crear arquitectura básica del microservicio
 
  Separar routes, controllers y services
+
  Crear endpoint de prueba /health
+
  Probar con Postman o Thunder Client
 
 📌 Valor: Servicio estructurado y escalable.
@@ -93,8 +115,11 @@ Entregable: Microservicio estructurado y versionado correctamente.
 8️⃣ Integrar control de versiones profesional
 
  Definir estrategia de ramas (main + develop)
+
  Crear rama feature
+
  Hacer merge con pull request
+
  Documentar flujo en README
 
 📌 Valor: Proyecto listo para trabajo en equipo.
@@ -102,8 +127,11 @@ Entregable: Microservicio estructurado y versionado correctamente.
 9️⃣ Documentación final y cierre
 
  Actualizar README con instrucciones
+
  Añadir scripts útiles
+
  Revisar lint sin errores
+
  Tag versión v1.0.0
 
 📌 Valor: Entrega final profesional.
