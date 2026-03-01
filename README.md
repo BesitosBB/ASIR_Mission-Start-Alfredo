@@ -8,6 +8,7 @@ Acabas de ser contratado como Desarrollador Junior en NextGen Web Solutions. Tu 
 Entregable: Repositorio inicializado, VS Code configurado y proyecto base funcional.
 
 🧩 Issues del Milestone 1
+
 1️⃣ Inicializar repositorio y estructura base
 
  Crear repositorio en GitHub
